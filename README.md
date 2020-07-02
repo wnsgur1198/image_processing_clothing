@@ -1,7 +1,9 @@
 # image_processing_clothing
 > 시각장애인을 위한 웹 쇼핑몰 개발 중 이미지 분석 - 의복의 종류와 색깔 판단
 
-![](readme-img/header.jpg)
+![](readme-img/web1.png)
+![](readme-img/image_server-result.png)
+![](readme-img/web-result.png)
 
 ## Installation
 
